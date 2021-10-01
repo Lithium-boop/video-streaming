@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "SimonSiefke.prettier-vscode",
+  "editor.accessibilitySupport": "off",
+  "javascript.format.enable": false,
+  "editor.formatOnType": true
+}
